@@ -1,0 +1,12 @@
+yfinance
+matplotlib
+datefinder
+requests
+tqdm
+beautifulsoup4
+openpyxl
+pandas
+numpy
+plotly
+ipywidgets
+tensorflow
