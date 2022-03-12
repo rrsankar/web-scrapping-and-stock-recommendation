@@ -1,2 +1,2 @@
-# web-scrapping-and-stock-recommendation
-Scraping tickers from News site and providing recommendions.
+# Web Scrapping and stock recommendation
+#### Scraping tickers from News site and providing recommendations.
